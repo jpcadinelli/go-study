@@ -1,4 +1,5 @@
 package main
 
-func mainNaoFunciona() {
+func main() {
+	main006()
 }

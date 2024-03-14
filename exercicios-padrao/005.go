@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main005() {
 	var num int
 	fmt.Print("Digite um número intero: ")
 	fmt.Scan(&num)
