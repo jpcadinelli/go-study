@@ -7,5 +7,5 @@ func main010() {
 	fmt.Print("Insira quanto dinheiro você tem na conta: ")
 	fmt.Scanln(&saldo)
 	dolares := saldo / 3.27
-	fmt.Printf("Você pode comprar %f dolares", dolares)
+	fmt.Printf("Você pode comprar %f dolares\n", dolares)
 }
